@@ -86,6 +86,8 @@ G64165TJ	"RES
 
 GlycoCTToMolfile: https://bitbucket.org/glycosw/glycocttomolfile/src/master/
 
+#### input format
+
 ```
 ID:G35898DT
 RES
