@@ -36,7 +36,7 @@ WHERE {
 }
 ```
 
-### 1.2 using gtcct.sh (https://github.com/glyconavi/pubchem/blob/master/gtcct.sh)
+### 1.2 using gtcsel (https://github.com/glyconavi/pubchem/blob/master/gtcsel)
 
 ## 2. Convert from GlycoCT to Mol(Molfile/SDfile) using GlycoCTToMolfile
 
