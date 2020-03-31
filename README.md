@@ -48,6 +48,16 @@ ctconv.php: https://github.com/glyconavi/pubchem/blob/master/PubChemUpload/tsv2t
 
 *  output file name: ct.txt
 
+```
+Path:
++ ctconv.php
++ selectedCT.txt
+
+$ php ctconv.php
+
+```
+
+
 #### TSV file of GlyTouCan
 ```
 G35898DT	"RES
