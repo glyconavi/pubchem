@@ -1,6 +1,6 @@
 # PubChem Upload (https://pubchem.ncbi.nlm.nih.gov/upload/)
 
-## 1. Get GlycoCT Data
+## 1. Get GlycoCT Data (1.1 or 1.2)
 
 ### 1.1 using SPARQL Query from GlyTouCan SPARQL endpoint.
 
