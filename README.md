@@ -1,6 +1,8 @@
 # PubChem Upload (https://pubchem.ncbi.nlm.nih.gov/upload/)
 
-## 1. Get GlycoCT Data using SPARQL Query from GlyTouCan SPARQL endpoint.
+## 1. Get GlycoCT Data
+
+### 1.1 using SPARQL Query from GlyTouCan SPARQL endpoint.
 
 SPARQL endpoint https://ts.glytoucan.org/sparql
 
@@ -33,6 +35,8 @@ WHERE {
   
 }
 ```
+
+### 1.2 using gtcct.sh (https://github.com/glyconavi/pubchem/blob/master/gtcct.sh)
 
 ## 2. Convert from GlycoCT to Mol(Molfile/SDfile) using GlycoCTToMolfile
 
