@@ -43,6 +43,11 @@ WHERE {
 
 ctconv.php: https://github.com/glyconavi/pubchem/blob/master/PubChemUpload/tsv2txt/ctconv.php
 
+
+*  input file name: selectedCT.txt
+
+*  output file name: ct.txt
+
 #### TSV file of GlyTouCan
 ```
 G35898DT	"RES
